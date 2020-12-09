@@ -1,9 +1,15 @@
 # Advent of Code 2020
 
-# Running Locally in VS Code
-run npm i
-run build task via Ctrl + Shift + B
-run debugger via F5
+## Execute Locally in VS Code
 
-# Output
-Puzzle output will be presenter in the debug console. Simply uncomment puzzles in src/index.ts to out their results
+### Install Packages via Terminal
+`npm i`
+
+### Run Build Task in VS Code
+Ctrl+Shift+B
+
+### Exectue Solution via Debugger in VS Code
+Push F5 to execute
+
+## View Results
+Puzzle output will be presented in the debug console. Simply uncomment puzzles in `src/index.ts` to output their results
