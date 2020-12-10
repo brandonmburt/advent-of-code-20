@@ -1,4 +1,5 @@
 # Advent of Code 2020
+These are my solutions to Advent of Code 2020 using Node.js and Typescript
 
 ## Run Locally in VS Code
 Clone this responsitory to your machine via `git clone https://github.com/brandonmburt/advent-of-code-20.git`  
