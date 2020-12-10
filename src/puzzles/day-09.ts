@@ -4,7 +4,7 @@ import { performance } from 'perf_hooks';
 export function solvePuzzle9(): void {
 
     const t1: number = performance.now();
-    const data: number[] = FileUtils.getInput('day-09-input.txt').split('\n').map(x => +x);
+    const data: number[] = FileUtils.getInput('day-09-input.txt').split('\n').map(Number);
     let s: Set<number> = new Set(data.slice(0,25));
     const p1: number = findFirstFailure();
     const p2: number = calcEncryptionWeakness(p1);

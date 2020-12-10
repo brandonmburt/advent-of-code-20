@@ -11,3 +11,4 @@ Puzzles.solvePuzzle6();
 Puzzles.solvePuzzle7();
 Puzzles.solvePuzzle8();
 Puzzles.solvePuzzle9();
+Puzzles.solvePuzzle10();
