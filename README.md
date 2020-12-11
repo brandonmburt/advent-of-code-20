@@ -1,15 +1,12 @@
 # Advent of Code 2020
+These are my solutions to Advent of Code 2020 using Node.js and Typescript
 
-## Execute Locally in VS Code
-
-### Install Packages via Terminal
-`npm i`
-
-### Run Build Task in VS Code
-Ctrl+Shift+B
-
-### Exectue Solution via Debugger in VS Code
-Push F5 to execute
+## Run Locally in VS Code
+Clone this responsitory to your machine via `git clone https://github.com/brandonmburt/advent-of-code-20.git`  
+Navigate to project directory and run `npm i` to install required packages  
+Execute `code .` to open in VS Code  
+Start the build task via `Ctrl+Shift+B`  
+Push `F5` to execute solutions  
 
 ## View Results
-Puzzle output will be presented in the debug console. Simply uncomment puzzles in `src/index.ts` to output their results
+Puzzle output will be presented in the debug console. Simply uncomment puzzles in `src/index.ts` before executing to view their results  
